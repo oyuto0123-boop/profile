@@ -1,0 +1,51 @@
+/* 全体 */
+body {
+  background-color: #000000;
+  color: #FFD700;
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+/* コンテナ */
+.container {
+  max-width: 600px;
+  margin: 60px auto;
+  padding: 40px;
+  border: 2px solid #FFD700;
+  border-radius: 12px;
+}
+
+/* アバター */
+.avatar {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  border: 3px solid #FFD700;
+  display: block;
+  margin: 0 auto 16px;
+}
+
+/* 名前 */
+.name {
+  text-align: center;
+  font-size: 28px;
+  color: #FFD700;
+}
+
+/* 自己紹介 */
+.bio {
+  text-align: center;
+  line-height: 1.8;
+}
+
+/* スキル */
+.skills h2 {
+  border-bottom: 2px solid #FFD700;
+  padding-bottom: 8px;
+}
+
+.skills li {
+  margin: 8px 0;
+  line-height: 1.8;
+}
