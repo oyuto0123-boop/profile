@@ -49,3 +49,39 @@ body {
   margin: 8px 0;
   line-height: 1.8;
 }
+
+.back-btn {
+  display: block;
+  text-align: center;
+  margin-top: 40px;
+  color: #FFD700;
+  text-decoration: none;
+  border: 2px solid #FFD700;
+  padding: 10px;
+  border-radius: 8px;
+}
+
+.back-btn:hover {
+  background-color: #FFD700;
+  color: #000000;
+}
+
+.nav {
+  text-align: center;
+  margin-top: 40px;
+}
+
+.nav-btn {
+  color: #FFD700;
+  text-decoration: none;
+  border: 2px solid #FFD700;
+  padding: 10px 20px;
+  border-radius: 8px;
+  margin: 0 10px;
+}
+
+.nav-btn:hover {
+  background-color: #FFD700;
+  color: #000000;
+}
+
